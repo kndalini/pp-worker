@@ -13,6 +13,9 @@ let dohURL = 'https://1.1.1.1/dns-query';
 // https://dns.google/dns-query
 // https://sky.rethinkdns.com/1:-Pf_____9_8A_AMAIgE8kMABVDDmKOHTAKg=
 // https://free.shecan.ir/dns-query        <--- دی ان اس ایرانی
+// https://dns.adguard-dns.com/dns-query
+// https://doh.cleanbrowsing.org/doh/security-filter
+// https://doh.opendns.com/dns-query
 
 // v2board api environment variables (optional)
 // now deprecated, please use planetscale.com instead
